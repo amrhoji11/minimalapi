@@ -27,7 +27,7 @@ namespace MinmalApi
 
             app.MapGet("/", () =>
             {
-                return "Hello Azure";
+                return "CI CD Success";
             });
 
 
